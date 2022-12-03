@@ -1,0 +1,10 @@
+
+.container{
+    width: 200px;
+    height: 150px;
+    border: 1px solid rgb(62, 9, 235);
+    background-color: darksalmon;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,180 @@
+{
+  "courses": [
+    {
+      "id": 101,
+      "courseName": "Python Programming",
+      "courseDuration": "60 Hours",
+      "courseEligibility": "Post Graduate",
+      "courseFee": "10000"
+    },
+    {
+      "id": 102,
+      "courseName": "J2EE",
+      "courseDuration": "48 Hours",
+      "courseEligibility": "Under Graduate",
+      "courseFee": 1100
+    },
+    {
+      "id": 20003,
+      "courseName": "Micro Services",
+      "courseDuration": "300 Hrs",
+      "courseEligibility": "Post Graduate",
+      "courseFee": "50000"
+    },
+    {
+      "id": 201,
+      "courseName": "Scala Programming",
+      "courseDuration": "3 Months",
+      "courseEligibility": "Undergraduate",
+      "courseFee": "$1000"
+    },
+    {
+      "id": 101,
+      "courseName": "Core Java",
+      "courseDuration": "52 Hours",
+      "courseEligibility": "Intermediate",
+      "courseFee": 9500
+    },
+    {
+      "id": 102,
+      "courseName": "J2EE",
+      "courseDuration": "48 Hours",
+      "courseEligibility": "Under Graduate",
+      "courseFee": 1100
+    },
+    {
+      "id": 103,
+      "courseName": "Android",
+      "courseDuration": "50 Hours",
+      "courseEligibility": "Under Graduate",
+      "courseFee": 7500
+    },
+    {
+      "id": 104,
+      "courseName": "Python",
+      "courseDuration": "60 Hours",
+      "courseEligibility": "Under Graduate",
+      "courseFee": 12500
+    },
+    {
+      "id": 105,
+      "courseName": "Angular",
+      "courseDuration": "40 Hours",
+      "courseEligibility": "Under Graduate",
+      "courseFee": 15000
+    },
+    {
+      "id": 106,
+      "courseName": "MySQL",
+      "courseDuration": "42 Hours",
+      "courseEligibility": "Under Graduate",
+      "courseFee": 7000
+    },
+    {
+      "id": 107,
+      "courseName": "Spring",
+      "courseDuration": "110 Hours",
+      "courseEligibility": "Under Graduate",
+      "courseFee": 13000
+    },
+    {
+      "id": 108,
+      "courseName": "MEAN Stack",
+      "courseDuration": "280 Hours",
+      "courseEligibility": "Graduates",
+      "courseFee": 65000
+    },
+    {
+      "id": 109,
+      "courseName": "DevOps with Java",
+      "courseDuration": "300 Hours",
+      "courseEligibility": "Graduates",
+      "courseFee": 80000
+    },
+    {
+      "id": 110,
+      "courseName": "PGP Java",
+      "courseDuration": "6 Months",
+      "courseEligibility": "Graduates",
+      "courseFee": "5000"
+    },
+    {
+      "id": 446,
+      "courseName": "GIUGGIU",
+      "courseDuration": "hoihihi",
+      "courseEligibility": "ihohiophio",
+      "courseFee": "oiuhyoiho"
+    }
+  ],
+
+  
+  "users": [
+    {
+      "id": 30423,
+      "empEmailId": "pankaj.saini@niit.com",
+      "password": "123456",
+      "empName": "Pankaj kumar Saini",
+      "empDepartment": "Training & Develipment",
+      "empLocation": "New Delhi",
+      "yearsOfExp": 9,
+      "studentTaught": 1200,
+      "managerId": 19463,
+      "dateOfJoining": "12/10/2015",
+      "role": "Admin"
+    },
+    {
+      "id": 30258,
+      "empEmailId": "rakesh.pandit@niit.com",
+      "password": "rakesh111",
+      "empName": "Rakesh Pandit",
+      "empDepartment": "Training & Development",
+      "empLocation": "Gurugram Haryana",
+      "yearsOfExp": 13,
+      "studentTaught": 1500,
+      "managerId": 23190,
+      "dateOfJoining": "1984-10-10",
+      "role": "Admin"
+    },
+    {
+      "id": 19463,
+      "empEmailId": "nidhi.sharma@niit.com",
+      "password": "password",
+      "empName": "Nidhi Sharma",
+      "empDepartment": "Training & Development",
+      "empLocation": "New Delhi, Preet Vihar",
+      "yearsOfExp": 12,
+      "studentTaught": 280,
+      "managerId": 17234,
+      "dateOfJoining": "1982-10-12",
+      "role": "Academic Leader"
+    },
+    {
+      "id": 1010,
+      "empEmailId": "aman@niit.com",
+      "password": "123456",
+      "empName": "Aman",
+      "empDepartment": "IT",
+      "empLocation": "Noida",
+      "yearsOfExp": 2,
+      "studentTaught": 102,
+      "managerId": 101,
+      "dateOfJoining": "1999-04-22",
+      "role": "Trainer"
+    },
+    {
+      "id": 1111111,
+      "empEmailId": "abc@gmail.com",
+      "password": "12345`",
+      "empName": "admin",
+      "empDepartment": "CSE",
+      "empLocation": "UK",
+      "yearsOfExp": 13,
+      "studentTaught": 2500,
+      "managerId": 110,
+      "dateOfJoining": "2022-07-15",
+      "role": "Trainer"
+    }
+  ]
+
+  
+}
